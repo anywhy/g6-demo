@@ -1,0 +1,86 @@
+{
+  "id": "1671081",
+  "name": "bep-ui",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "429053",
+      "name": "电话",
+      "font_class": "tel",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "485741",
+      "name": "叉号",
+      "font_class": "remove",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "1237316",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e794",
+      "unicode_decimal": 59284
+    },
+    {
+      "icon_id": "1473311",
+      "name": "ke",
+      "font_class": "kefu",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "2119425",
+      "name": "暂停",
+      "font_class": "suspend",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "2861028",
+      "name": "Loading",
+      "font_class": "Loading",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "3374311",
+      "name": "事件",
+      "font_class": "shijian",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "3645914",
+      "name": "渠道",
+      "font_class": "qudao",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "7716598",
+      "name": "弹窗",
+      "font_class": "tanchuang",
+      "unicode": "e6d7",
+      "unicode_decimal": 59095
+    },
+    {
+      "icon_id": "9999519",
+      "name": "活动配置",
+      "font_class": "activity-peizhi",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "6240469",
+      "name": "开始",
+      "font_class": "kaishi",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}
